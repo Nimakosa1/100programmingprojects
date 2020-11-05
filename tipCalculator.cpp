@@ -16,7 +16,7 @@ int main()
 //    double actualpercentage = percentagetip / 100;
 //    double total = (actualpercentage * amountofbill) / numberoffriends;
 //    cout << "Each person will pay" << total << "cedis" << endl;
-    cout  << "hello world" << endl;
+    cout  << "hello world Perry" << endl;
 
     return 0;
 }
